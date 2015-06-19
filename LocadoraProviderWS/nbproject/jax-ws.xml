@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="LocadoraProviderWS">
+      <implementation-class>com.pos.service.LocadoraProviderWS</implementation-class>
+    </service>
+    <service name="InternoUsuario">
+      <implementation-class>com.pos.service.InternoUsuario</implementation-class>
+    </service>
+  </services>
+  <clients>
+  </clients>
+</jax-ws>
